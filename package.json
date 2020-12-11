@@ -4,7 +4,8 @@
   "description": "Este na realidade é um script para poder usar no instagram versão navegador para poder fazer algumas funções, com o tempo será agregado mais coisas nesse robô, até a função para participar de sorteios.",
   "main": "unfollow.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
