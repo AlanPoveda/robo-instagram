@@ -4,6 +4,6 @@ const ig = require('./instagram');
 
     await ig.initialize();
 
-    await ig.login('Estou aqui', 'testando');
+    await ig.login('alanpovedaje', '!4lanP0veda*');
 
 })()
